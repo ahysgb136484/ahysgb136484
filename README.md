@@ -1,16 +1,18 @@
-## Hi there 👋
+# 寻川
 
-<!--
-**ahysgb136484/ahysgb136484** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python 自动化 · Android/ADB 脚本 · 数据处理与文档生成
 
-Here are some ideas to get you started:
+我做的事很具体：把重复的、手工的、需要人一直盯着屏幕的活，写成能自己跑完的脚本。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 能力
+
+- **手机自动化**：ADB + uiautomator2，读屏取值、批量点击、跨应用流程，跑通"看见 → 判断 → 操作 → 校验"
+- **数据处理**：Excel/CSV 清洗、口径核对、批量转换、报表生成（openpyxl / pandas）
+- **文档与排版**：Word/PDF/PPT 自动化生成，格式规范落地
+- **桌面自动化**：Windows GUI 脚本、批量文件治理、环境配置
+
+## 接单
+
+需要脚本、表格、文档或自动化流程，开个 Issue 说明需求即可，我会回。
+
+> 中文优先，英文也能读。
